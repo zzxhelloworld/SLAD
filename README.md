@@ -1,6 +1,6 @@
 # Introduction
 This repository contains various artifacts, such as source code, experimental results, and other materials, that supplement our work on **Substructure-aware Log Anomaly Detection**.
-SLAD framework is listed below.
+The framework of SLAD is listed below.
 ![SLAD framework diagram](https://github.com/zzxhelloworld/SLAD/blob/main/Artifact/slad-framework.png)
 # Preliminaries: Getting databases ready for experiments
 > 1. Import 12 datasets as SQL databases
