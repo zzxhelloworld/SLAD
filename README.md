@@ -7,11 +7,7 @@
 > 2. download other necessary files for experiments
 >> Please visit the directory <kbd>Artifact/necessary/</kbd> and download all of them. Please make sure to place them in the same directory with the source code.
 > 3. Software requirements
-```bash
-python 3.10+
-pytorch 1.8.0+
-torch-geometric 2.0.2+
-```
+>>python 3.10+; pytorch 2.1.2+; torch-geometric 2.4.0+
 # How to run code from the command line
 1. Clone the repository:
    ```bash
