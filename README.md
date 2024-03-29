@@ -1,7 +1,7 @@
 # Introduction
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This repository contains various artifacts, such as source code, experimental results, and other materials, that supplement our work on **Substructure-aware Log Anomaly Detection**. This work proposes a novel framework for log anomaly detection, Substructure-aware Log Anomaly Detection based on Graph Neural Networks (SLAD). It first introduces a Monte Carlo tree search strategy tailored specifically for log anomaly detection to discover representative substructures. Then, SLAD incorporates a substructure distillation way to enhance the efficiency of anomaly inference based on the representative substructures. The framework of SLAD is listed below.
 ![SLAD framework diagram](https://github.com/zzxhelloworld/SLAD/blob/main/Artifact/slad-framework.png)
-# Preliminaries: Getting datasets ready for experiments
+# Preliminaries: Getting ready for experiments
 > 1. Download 2 datasets: Forum & Halo
 >> The datasets for our experiments are placed [here](https://drive.google.com/drive/folders/11blVvVFOB7LHcf8IkZlzEUD08J7eGBys?usp=drive_link). The datasets are in a .rar format. Before conducting experiments,  please unzip the datasets and place them in the same directory with the source code.
 > 2. Download other necessary files for experiments
