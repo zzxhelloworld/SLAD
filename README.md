@@ -3,7 +3,7 @@
 ![SLAD framework diagram](https://github.com/zzxhelloworld/SLAD/blob/main/Artifact/slad-framework.png)
 # Preliminaries: Getting datasets ready for experiments
 > 1. download 2 datasets: Forum & Halo
->> The datasets for our experiments are placed [here](https://relational.fit.cvut.cz/dataset/TPCH). The datasets are in a .rar format. Before conducting experiments,  please unzip the datasets and place them in the same directory with the source code.
+>> The datasets for our experiments are placed [here](https://drive.google.com/drive/folders/11blVvVFOB7LHcf8IkZlzEUD08J7eGBys?usp=drive_link). The datasets are in a .rar format. Before conducting experiments,  please unzip the datasets and place them in the same directory with the source code.
 > 2. download other necessary files for experiments
 >> Please visit the directory <kbd>Artifact/necessary/</kbd> and download all of them. Please make sure to place them in the same directory with the source code.
 # How to run code from the command line
