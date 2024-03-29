@@ -1,5 +1,7 @@
 # Introduction
-This repository contains various artifacts, such as source code, experimental results, and other materials, that supplement our work on **Substructure-aware Log Anomaly Detection**.\
+This repository contains various artifacts, such as source code, experimental results, and other materials, that supplement our work on **Substructure-aware Log Anomaly Detection**.\\
+SLAD framework is listed below.
+![SLAD framework diagram](https://github.com/zzxhelloworld/SLAD/blob/main/Artifact/slad-framework.png)
 # Preliminaries: Getting databases ready for experiments
 > 1. Import 12 datasets as SQL databases
 >> We have used MySQL 8.0.29 as database workbench. Firstly, please create a database. Afterwards, import the [12 datasets](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html) as MySQL databases by setting column names as 0,1,...,n-1 where n is the number of columns in a given dataset. In addition, please create a column named "id" as an auto_increment attribute for each table that will facilitate the removal of updated tuples quickly.
